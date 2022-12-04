@@ -1,0 +1,7 @@
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Prototype_DP/Prototype_DP/bin/Debug/Prototype_DP.exe.config
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Prototype_DP/Prototype_DP/bin/Debug/Prototype_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Prototype_DP/Prototype_DP/bin/Debug/Prototype_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Prototype_DP/Prototype_DP/obj/Debug/Prototype_DP.csproj.CoreCompileInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Prototype_DP/Prototype_DP/obj/Debug/Prototype_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Prototype_DP/Prototype_DP/obj/Debug/Prototype_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Prototype_DP/Prototype_DP/obj/Debug/Prototype_DP.csproj.AssemblyReference.cache

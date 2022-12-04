@@ -1,0 +1,7 @@
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Object_Pool_DP/Object_Pool_DP/obj/Debug/Object_Pool_DP.csproj.AssemblyReference.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Object_Pool_DP/Object_Pool_DP/obj/Debug/Object_Pool_DP.csproj.CoreCompileInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Object_Pool_DP/Object_Pool_DP/bin/Debug/Object_Pool_DP.exe.config
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Object_Pool_DP/Object_Pool_DP/bin/Debug/Object_Pool_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Object_Pool_DP/Object_Pool_DP/bin/Debug/Object_Pool_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Object_Pool_DP/Object_Pool_DP/obj/Debug/Object_Pool_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Object_Pool_DP/Object_Pool_DP/obj/Debug/Object_Pool_DP.pdb

@@ -1,0 +1,14 @@
+C:/Users/ilker.balkan/source/repos/Design Patterns/Singleton_DP/Singleton_DP/obj/Debug/Singleton_DP.csproj.AssemblyReference.cache
+C:/Users/ilker.balkan/source/repos/Design Patterns/Singleton_DP/Singleton_DP/obj/Debug/Singleton_DP.csproj.CoreCompileInputs.cache
+C:/Users/ilker.balkan/source/repos/Design Patterns/Singleton_DP/Singleton_DP/bin/Debug/Singleton_DP.exe.config
+C:/Users/ilker.balkan/source/repos/Design Patterns/Singleton_DP/Singleton_DP/bin/Debug/Singleton_DP.exe
+C:/Users/ilker.balkan/source/repos/Design Patterns/Singleton_DP/Singleton_DP/bin/Debug/Singleton_DP.pdb
+C:/Users/ilker.balkan/source/repos/Design Patterns/Singleton_DP/Singleton_DP/obj/Debug/Singleton_DP.exe
+C:/Users/ilker.balkan/source/repos/Design Patterns/Singleton_DP/Singleton_DP/obj/Debug/Singleton_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Singleton_DP/Singleton_DP/bin/Debug/Singleton_DP.exe.config
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Singleton_DP/Singleton_DP/bin/Debug/Singleton_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Singleton_DP/Singleton_DP/bin/Debug/Singleton_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Singleton_DP/Singleton_DP/obj/Debug/Singleton_DP.csproj.AssemblyReference.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Singleton_DP/Singleton_DP/obj/Debug/Singleton_DP.csproj.CoreCompileInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Singleton_DP/Singleton_DP/obj/Debug/Singleton_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Singleton_DP/Singleton_DP/obj/Debug/Singleton_DP.pdb

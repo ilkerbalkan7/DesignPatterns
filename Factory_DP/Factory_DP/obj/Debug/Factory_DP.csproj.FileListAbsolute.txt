@@ -1,0 +1,14 @@
+C:/Users/ilker.balkan/source/repos/Design Patterns/Factory_DP/Factory_DP/bin/Debug/Factory_DP.exe.config
+C:/Users/ilker.balkan/source/repos/Design Patterns/Factory_DP/Factory_DP/bin/Debug/Factory_DP.exe
+C:/Users/ilker.balkan/source/repos/Design Patterns/Factory_DP/Factory_DP/bin/Debug/Factory_DP.pdb
+C:/Users/ilker.balkan/source/repos/Design Patterns/Factory_DP/Factory_DP/obj/Debug/Factory_DP.csproj.AssemblyReference.cache
+C:/Users/ilker.balkan/source/repos/Design Patterns/Factory_DP/Factory_DP/obj/Debug/Factory_DP.csproj.CoreCompileInputs.cache
+C:/Users/ilker.balkan/source/repos/Design Patterns/Factory_DP/Factory_DP/obj/Debug/Factory_DP.exe
+C:/Users/ilker.balkan/source/repos/Design Patterns/Factory_DP/Factory_DP/obj/Debug/Factory_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Factory_DP/Factory_DP/bin/Debug/Factory_DP.exe.config
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Factory_DP/Factory_DP/bin/Debug/Factory_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Factory_DP/Factory_DP/bin/Debug/Factory_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Factory_DP/Factory_DP/obj/Debug/Factory_DP.csproj.AssemblyReference.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Factory_DP/Factory_DP/obj/Debug/Factory_DP.csproj.CoreCompileInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Factory_DP/Factory_DP/obj/Debug/Factory_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Factory_DP/Factory_DP/obj/Debug/Factory_DP.pdb
