@@ -1,0 +1,15 @@
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/bin/Debug/net7.0/Bridge_DP
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/bin/Debug/net7.0/Bridge_DP.deps.json
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/bin/Debug/net7.0/Bridge_DP.runtimeconfig.json
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/bin/Debug/net7.0/Bridge_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/bin/Debug/net7.0/Bridge_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/Bridge_DP.csproj.AssemblyReference.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/Bridge_DP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/Bridge_DP.AssemblyInfoInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/Bridge_DP.AssemblyInfo.cs
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/Bridge_DP.csproj.CoreCompileInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/Bridge_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/refint/Bridge_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/Bridge_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/Bridge_DP.genruntimeconfig.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Bridge_DP/Bridge_DP/obj/Debug/net7.0/ref/Bridge_DP.dll
