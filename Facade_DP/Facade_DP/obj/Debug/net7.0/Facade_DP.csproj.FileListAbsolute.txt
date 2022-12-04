@@ -1,0 +1,15 @@
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/bin/Debug/net7.0/Facade_DP
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/bin/Debug/net7.0/Facade_DP.deps.json
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/bin/Debug/net7.0/Facade_DP.runtimeconfig.json
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/bin/Debug/net7.0/Facade_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/bin/Debug/net7.0/Facade_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/Facade_DP.csproj.AssemblyReference.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/Facade_DP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/Facade_DP.AssemblyInfoInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/Facade_DP.AssemblyInfo.cs
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/Facade_DP.csproj.CoreCompileInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/Facade_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/refint/Facade_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/Facade_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/Facade_DP.genruntimeconfig.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Facade_DP/Facade_DP/obj/Debug/net7.0/ref/Facade_DP.dll

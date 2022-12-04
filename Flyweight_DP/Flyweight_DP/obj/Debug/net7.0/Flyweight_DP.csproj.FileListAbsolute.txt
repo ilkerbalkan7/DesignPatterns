@@ -1,0 +1,15 @@
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/bin/Debug/net7.0/Flyweight_DP
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/bin/Debug/net7.0/Flyweight_DP.deps.json
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/bin/Debug/net7.0/Flyweight_DP.runtimeconfig.json
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/bin/Debug/net7.0/Flyweight_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/bin/Debug/net7.0/Flyweight_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/Flyweight_DP.csproj.AssemblyReference.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/Flyweight_DP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/Flyweight_DP.AssemblyInfoInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/Flyweight_DP.AssemblyInfo.cs
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/Flyweight_DP.csproj.CoreCompileInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/Flyweight_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/refint/Flyweight_DP.dll
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/Flyweight_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/Flyweight_DP.genruntimeconfig.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Flyweight_DP/Flyweight_DP/obj/Debug/net7.0/ref/Flyweight_DP.dll
