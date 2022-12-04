@@ -1,0 +1,14 @@
+C:/Users/ilker.balkan/source/repos/Design Patterns/Builder_DP/Builder_DP/obj/Debug/Builder_DP.csproj.AssemblyReference.cache
+C:/Users/ilker.balkan/source/repos/Design Patterns/Builder_DP/Builder_DP/obj/Debug/Builder_DP.csproj.CoreCompileInputs.cache
+C:/Users/ilker.balkan/source/repos/Design Patterns/Builder_DP/Builder_DP/bin/Debug/Builder_DP.exe.config
+C:/Users/ilker.balkan/source/repos/Design Patterns/Builder_DP/Builder_DP/bin/Debug/Builder_DP.exe
+C:/Users/ilker.balkan/source/repos/Design Patterns/Builder_DP/Builder_DP/bin/Debug/Builder_DP.pdb
+C:/Users/ilker.balkan/source/repos/Design Patterns/Builder_DP/Builder_DP/obj/Debug/Builder_DP.exe
+C:/Users/ilker.balkan/source/repos/Design Patterns/Builder_DP/Builder_DP/obj/Debug/Builder_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Builder_DP/Builder_DP/bin/Debug/Builder_DP.exe.config
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Builder_DP/Builder_DP/bin/Debug/Builder_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Builder_DP/Builder_DP/bin/Debug/Builder_DP.pdb
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Builder_DP/Builder_DP/obj/Debug/Builder_DP.csproj.AssemblyReference.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Builder_DP/Builder_DP/obj/Debug/Builder_DP.csproj.CoreCompileInputs.cache
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Builder_DP/Builder_DP/obj/Debug/Builder_DP.exe
+/Users/ikobaba07/Projects_VS/Design-Patterns-main/Builder_DP/Builder_DP/obj/Debug/Builder_DP.pdb
